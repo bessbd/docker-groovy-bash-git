@@ -1,4 +1,4 @@
-FROM groovy:2.4-alpine
+FROM groovy:3.0-alpine
 USER root
 WORKDIR /
 RUN \
